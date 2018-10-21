@@ -1,2 +1,7 @@
 # Archieve
 Archieve/
+*.out
+*.log
+*.aux
+*.synctex.gz
+
